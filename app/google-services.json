@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774572326638",
+    "firebase_url": "https://visitante-b3eda.firebaseio.com",
+    "project_id": "visitante-b3eda",
+    "storage_bucket": "visitante-b3eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774572326638:android:8223aea536319a5ba5bdff",
+        "android_client_info": {
+          "package_name": "com.example.visitante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774572326638-7ufp7vga2jfqlkht0g9lalsueh9j55n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visitante",
+            "certificate_hash": "f1049fe153900aa0b1636da4392cc1ca9949aa09"
+          }
+        },
+        {
+          "client_id": "774572326638-90266u5fucpjamtb9t1qsadsjjq19miu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEPiiGAhDaHavE8exnXM7L2DUk0Onc5cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774572326638-90266u5fucpjamtb9t1qsadsjjq19miu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
