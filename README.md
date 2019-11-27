@@ -57,3 +57,5 @@ This is how database(firestore) looks in the background.
 <ul><li>JAVAMAIL (for sending e-mail).</li>
 <li>FirebaseAuthentication (for Email & Password) based authentication</li>
 </ul>
+
+**Make sure to enable less secure apps to be able to send emails.**
