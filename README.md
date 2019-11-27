@@ -44,7 +44,7 @@ to the visitor about the details of his/her visit and we are redirected to the f
 <img src="https://github.com/shubhambuccha/visitante/blob/master/Innovacer%20assignment/8.jpg" width="300" height="550">
 <br/>
 <br/><B><I>
-This is the third screen where you can see all the history of visitors sorted according to the date and check-in time of the visitor.
+This is the third screen where you can see all the details of visitors history sorted according to the date and check-in time of the visitor.
 </B></I>
 <br/>
 <br/>
