@@ -3,7 +3,7 @@
 
 # Description
 Visitante is an entry management <B>Android</B> application. When a visitor arrives in the office, he/she enters his details along with 
-the host's details. Once he checks-in the host gets an sms and e-mail with all the information of the visitor.Once the meeting is complete,
+the host's details. Once he/she checks-in the host gets an sms and e-mail with all the information of the visitor.Once the meeting is complete,
 the person can check themselves out in the checkout fragment and thier entry moves to the history fragment.
 
 Compatible OS - Android<br/>
